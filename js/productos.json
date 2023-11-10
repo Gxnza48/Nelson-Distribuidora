@@ -11,18 +11,74 @@
     },
     {
         "id": "abrigo-02",
-        "titulo": "Fernet",
+        "titulo": "Fernet 1l",
         "imagen": "./img/abrigos/02.jpg",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
         },
         "precio": 1000
+
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Fernet 750ml",
+        "imagen": "./img/abrigos/02.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1000
+
     },
     {
         "id": "abrigo-03",
-        "titulo": "Sky ( Normal )",
-        "imagen": "./img/abrigos/03.jpg",
+        "titulo": "Sernova",
+        "imagen": "./img/abrigos/06.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1000
+
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Gin-Brighton",
+        "imagen": "./img/abrigos/08.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1000
+
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Cynar",
+        "imagen": "./img/abrigos/07.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1000
+
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Aperol",
+        "imagen": "./img/abrigos/10.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1000
+
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Amargo Obrero",
+        "imagen": "./img/abrigos/09.jpg",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
@@ -136,7 +192,7 @@
     },
     {
         "id": "pantalon-01",
-        "titulo": "TTropical Fruits",
+        "titulo": "Tropical Fruits",
         "imagen": "./img/pantalones/01.jpg",
         "categoria": {
             "nombre": "Saborizado",
@@ -173,6 +229,8 @@
             "id": "pantalones"
         },
         "precio": 1000
+
+        
 
     }
 ]

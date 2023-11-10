@@ -53,7 +53,12 @@ aside {
 .logo {
     font-weight: bold;
     font-size: 1.1rem;
-    color: #4033f2;
+    color: black;
+    padding: 5px;
+    border-radius: 25px;
+    border: solid 2px black;
+    box-shadow: 5px 5px black;
+    margin-right: 20px;
     
 }
 
@@ -176,6 +181,7 @@ main {
 
 .producto-titulo {
     font-size: 1rem;
+    color: black
 }
 
 .producto-agregar {
